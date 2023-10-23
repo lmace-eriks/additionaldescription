@@ -1,0 +1,6 @@
+{
+  "additionaldescription": {
+    "component": "AdditionalDescription",
+    "composition": "children"
+  }
+}
